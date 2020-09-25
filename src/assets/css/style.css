@@ -1,0 +1,111 @@
+body{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.homepage{
+    margin:0;
+    padding:0;
+    height: auto;
+    min-width: 100%;
+    min-height: 100vh;
+}
+.background-overlay{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-color: rgba(14, 13, 13, 0.733);
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    color:#fff
+}
+.slider-area{
+   width: 100%;
+   height: 80vh;
+   display: flex;
+   align-items: center;
+   margin-left: 150px;
+}
+.hotels{
+    width: 70%;
+    padding:25px;
+}
+.home-hotel-details{
+    font-size:50px;font-weight:bolder
+}
+.hotel-details{
+    width: 25%;
+    padding:25px;
+    text-align:left;
+}
+.sliders{
+    display: flex;
+}
+.slider{
+    background-size:cover;
+    width: 270px;
+    height:416px;
+    margin-right: 25px;
+    border-radius:22px;
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+   
+}
+.slider:hover{
+    border: 2px solid #ffc107;
+    cursor: pointer;
+}
+
+.slider-title-overlay{
+    font-weight:800;
+    padding-left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    background-color:rgba(0,0,0,0.75);
+    bottom:0;
+    -webkit-box-shadow: -7px 16px 43px 57px rgba(0,0,0,0.75);
+    -moz-box-shadow: -7px 16px 43px 57px rgba(0,0,0,0.75);
+    box-shadow: -7px 16px 43px 57px rgba(0,0,0,0.75);
+}
+.slider-button{
+    margin-top:60px;
+    display: flex;
+}
+.prev-button,.next-button{
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    background-color:#fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size:22px;
+    border-radius:50%;
+    margin-right:20px;
+    font-weight: bold;
+}
+.button:hover{
+    border: 2px solid #ffc107;
+    color:#fff;
+}
+.slideractive{
+    border: 2px solid #ffc107;
+}
+.hotelbooking{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    margin-left: 150px;
+ }
+ .social-button{
+     border-radius: 30px;
+     padding:5px 10px;
+     width: 100%;
+     height: 50px;
+     border: 1px solid #C7C7C7;
+     cursor: pointer;
+ }
