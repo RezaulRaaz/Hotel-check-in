@@ -127,41 +127,6 @@ const Register = () => {
                     </Link>
                   </p>
                 </form>
-
-                <div class="social-login px-5">
-                  <div class="row">
-                    <div class="social-button mb-2">
-                      <div class="social-icon">
-                        <img
-                          src={Fbimg}
-                          style={{
-                            width: "37px",
-                            height: "37px",
-                            marginRight: "12px",
-                          }}
-                          alt="dsfas"
-                          srcset=""
-                        />
-                        <span class="text-center">Continue with Facebook</span>
-                      </div>
-                    </div>
-                    <div class="social-button">
-                      <div class="social-icon">
-                        <img
-                          src={Googleimg}
-                          style={{
-                            width: "37px",
-                            height: "37px",
-                            marginRight: "12px",
-                          }}
-                          alt="dsfas"
-                          srcset=""
-                        />
-                        <span class="text-center">Continue with Google</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
