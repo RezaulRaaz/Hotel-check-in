@@ -7,6 +7,7 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
     height: auto;
     min-width: 100%;
     min-height: 100vh;
+    overflow: hidden;
 }
 .background-overlay{
     width: 100%;

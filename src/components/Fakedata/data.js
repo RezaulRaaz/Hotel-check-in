@@ -156,44 +156,5 @@ var Location =[
         ],
         "description":`Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan. The provincial capital, Denpasar, is the most populous city in the Lesser Sunda Islands and the second-largest, after Makassar, in Eastern Indonesia. Bali is the only Hindu-majority province in Indonesia, with 82.5% of the population adhering to Balinese Hinduism.`
     },
-    {
-        "id":5,
-        'origin':'India',
-        "name":'Tajmahal',
-        "image":Tajmahal,
-        "hotels":[
-            {
-               "name":"Hotel Taj Resorts",
-               "location":`Hotel in agra`,
-               "description":`Set in agra, Hotel Taj Resorts offers 3-star accommodation with a shared lounge, a garden and a terrace.`,
-               "image":`https://lh3.googleusercontent.com/p/AF1QipMOXERi6CbPYD1SuNqiW1n-kJ0mpd1JwElFvRLw=w296-h202-n-k-rw-no-v1`,
-               "spacipacation":'4 guests 2 bedrooms 2 beds 2 baths',
-               "rate":'4',
-               "price":'36',
-               "total":'136',
-            },
-            {
-                "name":"Prime Park Hotel",
-                "location":`Hotel in agra`,
-                "description":`Set in agra, Prime Park Hotel offers 3 accommodation with private balconies. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi.... Their service was awesome. Every stuff was nice and very helpful. Over all the hotel was v`,
-                "image":`https://cf.bstatic.com/images/hotel/max1024x768/196/196169578.jpg`,
-                "spacipacation":'2 guests 1 bedrooms 1 beds 1 baths',
-                "rate":'4',
-                "price":'36',
-                "total":'136',
-             },
-             {
-                "name":"Hotel Elaf International",
-                "location":`Hotel in agra`,
-                "description":`Set in agra, Hotel Elaf International offers 3-star accommodation with a shared lounge and a garden.`,
-                "image":`https://cf.bstatic.com/images/hotel/max1024x768/129/129976824.jpg`,
-                "spacipacation":'4 guests 2 bedrooms 2 beds 2 baths',
-                "rate":'4',
-                "price":'36',
-                "total":'136',
-             },
-        ],
-        "description":`The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.`
-    },
 ]
 export default Location
